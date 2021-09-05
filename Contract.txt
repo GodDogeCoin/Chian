@@ -1,8 +1,9 @@
 //GodDoge.org
 // SPDX-License-Identifier: MIT
-//TotalSupply:100,000,000,000 GodDoge
-//Contract:0xb8378775323742F6A666B4AE522A0AebBDD93A89
+//TotalSupply:10,000,000,000 GodDoge
+//Contract:0x094CbA7672882289b7fC32A4B1D2BDc84E226d4E
 //Decimals:9
+//https://bscscan.com/address/0x094CbA7672882289b7fC32A4B1D2BDc84E226d4E
 
 pragma solidity ^0.6.12;
 pragma experimental ABIEncoderV2;
